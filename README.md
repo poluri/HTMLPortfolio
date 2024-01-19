@@ -1,1 +1,1 @@
-This website serves as a digital portfolio to showcase my skills, projects, and experiences. You can visit the live site at [Resume]([https://www.yourresumewebsiteurl.com](https://poluri.github.io/HTMLPortfolio/)https://poluri.github.io/HTMLPortfolio/).
+This website serves as a digital portfolio to showcase my skills, projects, and experiences. You can visit the live site at (https://poluri.github.io/HTMLPortfolio/) https://poluri.github.io/HTMLPortfolio/.
